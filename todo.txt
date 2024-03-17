@@ -1,0 +1,23 @@
++ recognize question 
+  - qrcode creator
+  - qrcode reader
+  - database for qrcode
+  - split questions from qrcode and save it with info
+
++ ocr and image recognizer
+
++ create Ai 
+ - llm for text 
+ - cnn for shape
+ - math recognize 
+ - sore 
+
+
+=======================================
++ AI HINT
+    i need model that give 2 text and check similarety by mean 
+      ? LLM
+    i need model that give math question and anwser of it next recgnize how persent that anwser is correct
+      ? ?
+    i need model to check similiraty shape anwser
+      ? NNM
